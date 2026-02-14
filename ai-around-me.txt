@@ -1,0 +1,36 @@
+Assignment (09/02/2026)
+Assignment Name :AI Around Me
+Description : List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines.
+
+
+10 Real-Life AI Applications I Use Daily (with ML Explanation)
+
+Google (Search, Maps, Gmail)
+Uses machine learning to understand your query, rank results, predict routes, and filter spam based on past data and user behavior.
+
+YouTube
+ML analyzes your watch history and likes to recommend videos you are most likely to watch next.
+
+Netflix
+Uses recommendation models to suggest movies/series based on your viewing history and similar users’ preferences.
+
+Spotify
+ML studies your listening patterns to create playlists and recommend new songs you may like.
+
+Amazon
+Uses ML for product recommendations, search ranking, and predicting what you might want to buy next.
+
+Uber
+ML models predict ride prices, estimate arrival times, and match drivers with passengers efficiently.
+
+WhatsApp
+Uses ML for spam detection, message filtering, and improving features like voice-to-text and security systems.
+
+Instagram
+ML decides which posts, reels, and ads to show you based on your interactions and interests.
+
+Paytm
+Uses ML for fraud detection, spending pattern analysis, and personalized offers.
+
+Swiggy
+ML predicts delivery time, suggests restaurants, and recommends dishes based on your order history.
