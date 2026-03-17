@@ -1,5 +1,6 @@
 # Assignment (02/03/2026) 
-# Assignment Name : ML Idea Generator Description : Suggest ML problems in college, healthcare, shopping and describe input → output.
+# Assignment Name : ML Idea Generator 
+# Description : Suggest ML problems in college, healthcare, shopping and describe input → output.
 
 
 # # ML Idea Generator
