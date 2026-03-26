@@ -1,0 +1,20 @@
+Assignment (19/03/2026)
+Assignment Name : Mini Project Proposal
+Description : Submit a 1-page proposal with problem, dataset, algorithm, expected output.
+
+
+Mini Project Proposal
+
+Title: Smart Student Performance Predictor
+
+Problem Statement:
+Many students face difficulty in predicting their academic performance. This project aims to develop a system that can predict student marks based on study habits and past performance.
+
+Dataset:
+The dataset will include features such as study hours, attendance, previous marks, and assignment scores. The data can be collected manually or from sample datasets.
+
+Algorithm:
+The project will use the Linear Regression algorithm to predict student performance based on input features.
+
+Expected Output:
+The system will predict the expected marks of a student and help identify whether the student needs improvement.
